@@ -4,9 +4,13 @@ I go to New India School.
 my father's name is Pankaj
 I am a clever girl
 I love singing songs
+<<<<<<< HEAD
 I love dancing
 I love playing
 I like to talk
 I like to roam
 I love my father. I call him BABA
 
+=======
+I love my father. I call him BABA
+>>>>>>> 11ffb5025fcd191df360109a0bfc3814a578efc6
